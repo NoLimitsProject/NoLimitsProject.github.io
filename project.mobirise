@@ -62,7 +62,7 @@
     "Weryfikacja.html": {
       "settings": {
         "main": true,
-        "title": "No Limits - Multiplayer FPS, Survival Game",
+        "title": "[Werfikacja] No Limits - Multiplayer FPS, Survival Game",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -97,7 +97,7 @@
     "Strona.html": {
       "settings": {
         "meta_descr": "",
-        "title": "No Limits - Multiplayer FPS, Survival Game",
+        "title": "[Strona] No Limits - Multiplayer FPS, Survival Game",
         "order": 2
       },
       "components": [
@@ -772,7 +772,7 @@
     "Kontakt.html": {
       "settings": {
         "meta_descr": "",
-        "title": "No Limits - Multiplayer FPS, Survival Game",
+        "title": "[Kontakt] No Limits - Multiplayer FPS, Survival Game",
         "order": 5
       },
       "components": [
@@ -925,7 +925,7 @@
     "Changelog.html": {
       "settings": {
         "meta_descr": "",
-        "title": " No Limits - Multiplayer FPS, Survival Game",
+        "title": "[Changelog]  No Limits - Multiplayer FPS, Survival Game",
         "order": 4
       },
       "components": [
